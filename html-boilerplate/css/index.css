@@ -1,0 +1,5 @@
+#lista_no_ordenada li {
+    background: url("../images/right-arrow-svgrepo-com-2.svg") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 15px;
+}
